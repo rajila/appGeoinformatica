@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practicaGoogleMapsGeoinf</string>
+    <string name="permission_rationale">El permiso de Localización es necesario para su funcionamiento.</string>
+    <string name="mensaje_app">\"La aplicación le permite calcular la distancia entre dos puntos: Origen (Ubicación actual) y Destino (Valor Ingresado). Además también le permite dibujar una ruta entre los dos puntos.\"</string>
+    <string name="error_consulta_destino">Error no se ha podido encontrar su Destino.</string>
+    <string name="error_internet">Para el correcto funcionamiento se necesita acceso a Internet.</string>
+</resources>
