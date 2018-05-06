@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App GeoPackage</string>
+    <string name="error_internet">Para el correcto funcionamiento se necesita acceso a Internet.</string>
+    <string name="error_read_storage">Para el correcto funcionamiento se necesita a los archivos des dispositivo.</string>
+    <string name="mensaje_app">\"La aplicación le permite obtener la información en texto de un archivo geopackage y también le permite dibujar la capa geopackage en el mapa.\"</string>
+</resources>
