@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Distritos Madrid en Carto</string>
+    <string name="error_internet">Para el correcto funcionamiento se necesita acceso a Internet.</string>
+    <string name="key_carto">XTUMwQ0ZRRERrVkk0Rm9HSTdtcDRJcE83R0FYd2w5dlJjQUlVSUV2dzRha3pSckRCc1FwNVpFbFJRSE1TbURNPQoKYXBwVG9rZW49MTIxNjNjMzAtYjhkMC00ZTA2LWJlODQtNDMyMTNhMmMyNzNiCnBhY2thZ2VOYW1lPWVzLnVwbS5nZW8ucHJhY3RpY2FjYXJ0b2dlbwpvbmxpbmVMaWNlbnNlPTEKcHJvZHVjdHM9c2RrLWFuZHJvaWQtNC4qCndhdGVybWFyaz1jYXJ0b2RiCg==</string>
+</resources>
